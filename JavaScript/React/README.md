@@ -1,15 +1,15 @@
 # React
-[React Docs](https://react.dev/reference/react)
+- [React Docs](https://react.dev/reference/react)
 
 ## App State
 - [Zustand](https://github.com/pmndrs/zustand)
 - [Jotai](https://jotai.org/)
 
 ## Forms
-[React Hook Form](https://react-hook-form.com/)
+- [React Hook Form](https://react-hook-form.com/)
 
 ## UI/Styling
-[Tamagui](https://tamagui.dev/)
+- [Tamagui](https://tamagui.dev/)
 
 ## Fetching
 - [TanStack Query](https://tanstack.com/query/latest/docs/framework/react/overview)

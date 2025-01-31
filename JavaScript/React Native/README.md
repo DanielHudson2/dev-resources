@@ -1,8 +1,8 @@
 # React Native
-[React Native Docs](https://reactnative.dev/)
+- [React Native Docs](https://reactnative.dev/)
 
 ## Framework
-[Expo](https://docs.expo.dev/)
+- [Expo](https://docs.expo.dev/)
 
 ## Local Storage
 - [AsyncStorage](https://docs.expo.dev/versions/latest/sdk/async-storage/)
