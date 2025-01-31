@@ -7,3 +7,7 @@
 
 ## Carousels
 - [Embla](https://github.com/davidjerleke/embla-carousel)
+
+## Animation
+- [Sal](https://github.com/mciastek/sal)
+- [GSAP](https://gsap.com/)
