@@ -8,6 +8,7 @@
 - [Bedrock](https://roots.io/bedrock/)
 - [WPackagist](https://wpackagist.org/)
 - [WordPress CLI](https://wp-cli.org/)
+- [@wordpress/scripts](https://developer.wordpress.org/block-editor/reference-guides/packages/packages-scripts/)
 
 ## Components
 - [@wordpress/components](https://wordpress.github.io/gutenberg/)
