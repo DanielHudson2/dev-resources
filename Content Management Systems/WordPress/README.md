@@ -25,7 +25,7 @@
 - [ALTCHA Spam Protection](https://wordpress.org/plugins/altcha-spam-protection/)
 
 ## Email
-- [WP Mail SMTP](https://wordpress.org/plugins/wp-mail-smtp/)
+- [WordPress Simple SMTP](https://wordpress.org/plugins/simple-smtp/)
 
 ## Redirects
 - [Redirection](https://wordpress.org/plugins/redirection/)
