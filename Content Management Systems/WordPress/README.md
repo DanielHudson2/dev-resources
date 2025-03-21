@@ -17,3 +17,24 @@
 ## WooCommerce
 - [REST API](https://woocommerce.github.io/woocommerce-rest-api-docs/)
 - [WooCommerce Blocks](https://github.com/woocommerce/woocommerce/tree/trunk/plugins/woocommerce-blocks/docs/)
+
+## Performance
+- [WP Super Cache](https://wordpress.org/plugins/wp-super-cache/)
+
+## Spam Protection
+- [ALTCHA Spam Protection](https://wordpress.org/plugins/altcha-spam-protection/)
+
+## Email
+- [WP Mail SMTP](https://wordpress.org/plugins/wp-mail-smtp/)
+
+## Redirects
+- [Redirection](https://wordpress.org/plugins/redirection/)
+
+## Security
+- [WordFence](https://wordpress.org/plugins/wordfence/)
+
+## SEO
+- [Slim SEO](https://wordpress.org/plugins/slim-seo/)
+
+## Forms
+- [Contact Form 7](https://wordpress.org/plugins/contact-form-7/)
