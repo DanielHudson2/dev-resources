@@ -33,7 +33,7 @@
 ## Security
 - [WordFence](https://wordpress.org/plugins/wordfence/)
 
-## SEO
+## SEO
 - [Slim SEO](https://wordpress.org/plugins/slim-seo/)
 
 ## Forms
