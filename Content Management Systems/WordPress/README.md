@@ -9,6 +9,7 @@
 - [WPackagist](https://wpackagist.org/)
 - [WordPress CLI](https://wp-cli.org/)
 - [@wordpress/scripts](https://developer.wordpress.org/block-editor/reference-guides/packages/packages-scripts/)
+- [Query Monitor](https://en-gb.wordpress.org/plugins/query-monitor/)
 
 ## Components
 - [@wordpress/components](https://wordpress.github.io/gutenberg/)
@@ -20,6 +21,7 @@
 
 ## Performance
 - [WP Super Cache](https://wordpress.org/plugins/wp-super-cache/)
+- [SQLite Object Cache](https://en-gb.wordpress.org/plugins/sqlite-object-cache/)
 
 ## Spam Protection
 - [ALTCHA Spam Protection](https://wordpress.org/plugins/altcha-spam-protection/)
@@ -31,10 +33,15 @@
 - [Redirection](https://wordpress.org/plugins/redirection/)
 
 ## Security
-- [WordFence](https://wordpress.org/plugins/wordfence/)
+- [Two-Factor](https://wordpress.org/plugins/two-factor/)
+- [Limit Login Attempts Reloaded](https://en-gb.wordpress.org/plugins/limit-login-attempts-reloaded/)
 
 ## SEO
 - [Slim SEO](https://wordpress.org/plugins/slim-seo/)
 
 ## Forms
 - [Contact Form 7](https://wordpress.org/plugins/contact-form-7/)
+
+## Media
+- [Safe SVG](https://wordpress.org/plugins/safe-svg/)
+- [Imsanity](https://en-gb.wordpress.org/plugins/imsanity/)
