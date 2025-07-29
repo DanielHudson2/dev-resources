@@ -202,5 +202,6 @@
     "markdown": false,
     "scminput": false
   },
-  "wpBlockThemeCompanion.themeJsonPath": "web/app/themes/pulsar/theme.json"
+"wpBlockThemeCompanion.themeJsonPath": "web/app/themes/pulsar/theme.json",
+"workbench.iconTheme": "vscode-icons"
 }
